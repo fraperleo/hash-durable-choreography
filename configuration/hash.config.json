@@ -1,0 +1,4 @@
+{
+    "orchestratorFuncName": "hash-orchestrator",
+    "workerFuncName": "hash-worker"
+}
